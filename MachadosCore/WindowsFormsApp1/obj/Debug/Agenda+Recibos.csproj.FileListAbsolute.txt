@@ -1,0 +1,11 @@
+C:\Users\tomas\Documents\C#\MachadosCore\WindowsFormsApp1\obj\Debug\Agenda+Recibos.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\C#\MachadosCore\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\tomas\Documents\C#\MachadosCore\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\tomas\Documents\C#\MachadosCore\WindowsFormsApp1\obj\Debug\Agenda+Recibos.csproj.GenerateResource.cache
+C:\Users\tomas\Documents\C#\MachadosCore\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\tomas\Documents\C#\MachadosCore\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\tomas\Documents\C#\MachadosCore\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\tomas\Documents\C#\MachadosCore\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\tomas\Documents\C#\MachadosCore\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\tomas\Documents\C#\MachadosCore\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Forms.AdicionarPacientes.resources
+C:\Users\tomas\Documents\C#\MachadosCore\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Forms.Intermediario.resources
